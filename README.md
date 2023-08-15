@@ -1,6 +1,21 @@
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+# Vx7 nuxt 3
+Blog website made with nuxt 3 
+
+## Features
+
+
+- User authentication
+- Logout
+- User details/ user profile
+- Refresh Token
+- create/read/delete/update Posts
+- Get/create Comments
+- Like Post 
 
 ## Setup
 
